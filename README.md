@@ -1,0 +1,2 @@
+# PicGoImage
+作为PicGo的图床区便于typora软件使用URL的图片
